@@ -1,4 +1,4 @@
-# Lexical-scopping
+# Lexical scopping
 # MAHIMA A
 makeCacheMatrix <- function(x = matrix()) {
     i <- NULL
